@@ -16,7 +16,7 @@ For the node mailer package to work properly you must add a .env file inside of 
 
 The contents of the .env file are as follows:
 NODE_MAILER_USER = "split.noreply@yahoo.com"
-NODE_MAILER_PASS = "password"
+NODE_MAILER_PASS = "not provided"
 
 Here are some usernames and passwords to test the program with:
 username: tristan, password: password
